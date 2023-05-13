@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+Plots/
+Outfiles/Indiv_files
+Data/
