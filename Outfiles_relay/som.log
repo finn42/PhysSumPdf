@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 MAY 2023 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  16 MAY 2023 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -156,45 +156,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: No \author given.
 
-</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702_leg
+</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607_leg
 _Relay.png, id=1, 732.48656pt x 558.96329pt>
-File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC70
-2_leg_Relay.png Graphic file (type png)
-<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR60
+7_leg_Relay.png Graphic file (type png)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607
 _leg_Relay.png>
 Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Summari
-es/Plots/Relay/PC702_leg_Relay.png  used on input line 7.
+es/Plots/Relay/BR607_leg_Relay.png  used on input line 7.
 (pdftex.def)             Requested size: 452.9679pt x 345.66663pt.
-</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702_Ful
+</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607_Ful
 l_Relay.png, id=3, 620.69391pt x 425.33907pt>
-File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC70
-2_Full_Relay.png Graphic file (type png)
-<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR60
+7_Full_Relay.png Graphic file (type png)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607
 _Full_Relay.png>
 Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Summari
-es/Plots/Relay/PC702_Full_Relay.png  used on input line 12.
+es/Plots/Relay/BR607_Full_Relay.png  used on input line 12.
 (pdftex.def)             Requested size: 670.50687pt x 459.47615pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 15.
-</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702_5s_
+</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607_5s_
 samples_Relay.png, id=4, 867.24pt x 722.7pt>
-File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC70
-2_5s_samples_Relay.png Graphic file (type png)
-<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR60
+7_5s_samples_Relay.png Graphic file (type png)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607
 _5s_samples_Relay.png>
 Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Summari
-es/Plots/Relay/PC702_5s_samples_Relay.png  used on input line 17.
+es/Plots/Relay/BR607_5s_samples_Relay.png  used on input line 17.
 (pdftex.def)             Requested size: 452.9679pt x 377.47131pt.
-</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702_res
+</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607_res
 p_phases.png, id=5, 867.24pt x 433.62pt>
-File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC70
-2_resp_phases.png Graphic file (type png)
-<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR60
+7_resp_phases.png Graphic file (type png)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607
 _resp_phases.png>
 Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Summari
-es/Plots/Relay/PC702_resp_phases.png  used on input line 22.
+es/Plots/Relay/BR607_resp_phases.png  used on input line 22.
 (pdftex.def)             Requested size: 452.9679pt x 226.48279pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -209,11 +209,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/
-finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/PC702_leg_Relay.p
-ng>] [2 </Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/P
-C702_Full_Relay.png>] [3 </Users/finn/Desktop/Current_Projects/Stavanger/Summar
-ies/Plots/Relay/PC702_5s_samples_Relay.png>] [4 </Users/finn/Desktop/Current_Pr
-ojects/Stavanger/Summaries/Plots/Relay/PC702_resp_phases.png>] (./som.aux
+finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/BR607_leg_Relay.p
+ng>] [2 </Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Relay/B
+R607_Full_Relay.png>] [3 </Users/finn/Desktop/Current_Projects/Stavanger/Summar
+ies/Plots/Relay/BR607_5s_samples_Relay.png>] [4 </Users/finn/Desktop/Current_Pr
+ojects/Stavanger/Summaries/Plots/Relay/BR607_resp_phases.png>] (./som.aux
 (./Indiv.aux)) ) )
 (\end occurred when \iftrue on line 8 was incomplete)
 (\end occurred when \ifnum on line 8 was incomplete) 
@@ -224,13 +224,13 @@ Here is how much of TeX's memory you used:
  5499 multiletter control sequences out of 15000+600000
  7280 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,25p,553b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,9n,25p,648b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on som.pdf (4 pages, 1233983 bytes).
+Output written on som.pdf (4 pages, 1288648 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream

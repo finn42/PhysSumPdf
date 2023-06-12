@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  13 MAY 2023 16:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  24 MAY 2023 12:36
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **som.tex
 (./som.tex
@@ -46,35 +47,51 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(./som.aux (./Indiv.aux))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count88
+\rotFPtop=\skip44
+\rotFPbot=\skip45
+\rot@float@box=\box27
+\rot@mess@toks=\toks15
+) (./som.aux
+(./Indiv.aux))
 \openout1 = `som.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count88
+\scratchcounter=\count89
 \scratchdimen=\dimen105
-\scratchbox=\box27
-\nofMPsegments=\count89
-\nofMParguments=\count90
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count91
+\scratchbox=\box28
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count92
 \MPscratchDim=\dimen106
-\MPnumerator=\count92
-\makeMPintoPDFobject=\count93
-\everyMPtoPDFconversion=\toks16
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks17
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -130,37 +147,140 @@ e
 
 
 (./Indiv.tex
-</Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Waves/Resp_BR60
-2_Tcha_waves.jpg, id=1, 608.5134pt x 497.57895pt>
-File: /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Waves/Resp
-_BR602_Tcha_waves.jpg Graphic file (type jpg)
-<use /Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Waves/Resp_
-BR602_Tcha_waves.jpg>
-Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Summari
-es/Plots/Waves/Resp_BR602_Tcha_waves.jpg  used on input line 5.
-(pdftex.def)             Requested size: 345.0pt x 282.10446pt.
- [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
 
 
- </Users/finn/Desktop/Current_Projects/Stavanger/Summaries/Plots/Waves/Resp_BR6
-02_Tcha_waves.jpg>] (./som.aux (./Indiv.aux)) ) )
-(\end occurred when \iftrue on line 5 was incomplete)
-(\end occurred when \ifnum on line 5 was incomplete) 
+LaTeX Warning: No \author given.
+
+</Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/BPM/Cardiac_
+BR601_Full_BPM.jpg, id=1, 894.7026pt x 874.467pt>
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/BPM/Car
+diac_BR601_Full_BPM.jpg Graphic file (type jpg)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/BPM/Card
+iac_BR601_Full_BPM.jpg>
+Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Coordin
+ation/plots/BPM/Cardiac_BR601_Full_BPM.jpg  used on input line 8.
+(pdftex.def)             Requested size: 452.9679pt x 442.7165pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/Card_p
+arams/Cardiac_BR601_C1__BPM_dist.jpg, id=2, 600.92505pt x 279.32355pt>
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/C
+ard_params/Cardiac_BR601_C1__BPM_dist.jpg Graphic file (type jpg)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/Ca
+rd_params/Cardiac_BR601_C1__BPM_dist.jpg>
+Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_
+Preparation/plots/Card_params/Cardiac_BR601_C1__BPM_dist.jpg  used on input lin
+e 13.
+(pdftex.def)             Requested size: 670.50687pt x 311.68944pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/Waves/Resp_B
+R601_Tcha_waves.jpg, id=3, 608.5134pt x 497.57895pt>
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/Waves/R
+esp_BR601_Tcha_waves.jpg Graphic file (type jpg)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/Waves/Re
+sp_BR601_Tcha_waves.jpg>
+Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Coordin
+ation/plots/Waves/Resp_BR601_Tcha_waves.jpg  used on input line 18.
+(pdftex.def)             Requested size: 452.9679pt x 370.39687pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/Resp_P
+arms/Insp_BR601_C5__dists.jpg, id=4, 594.42075pt x 279.32355pt>
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/R
+esp_Parms/Insp_BR601_C5__dists.jpg Graphic file (type jpg)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/Re
+sp_Parms/Insp_BR601_C5__dists.jpg>
+Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_
+Preparation/plots/Resp_Parms/Insp_BR601_C5__dists.jpg  used on input line 23.
+(pdftex.def)             Requested size: 452.9679pt x 212.85495pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/RD_Lyd
+o_5_Synch_synch_cue.png, id=5, 1445.4pt x 433.62pt>
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/R
+D_Lydo_5_Synch_synch_cue.png Graphic file (type png)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/RD
+_Lydo_5_Synch_synch_cue.png>
+Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_
+Preparation/plots/RD_Lydo_5_Synch_synch_cue.png  used on input line 29.
+(pdftex.def)             Requested size: 452.9679pt x 135.88966pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/OrchResp_eac
+h_performance_Full_set.png, id=7, 934.81245pt x 879.5259pt>
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/OrchRes
+p_each_performance_Full_set.png Graphic file (type png)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/OrchResp
+_each_performance_Full_set.png>
+Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Coordin
+ation/plots/OrchResp_each_performance_Full_set.png  used on input line 34.
+(pdftex.def)             Requested size: 452.9679pt x 426.18036pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/All_pe
+rformances_StraussMarch_set_QoM.png, id=8, 1084.05pt x 1084.05pt>
+File: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/A
+ll_performances_StraussMarch_set_QoM.png Graphic file (type png)
+<use /Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/plots/Al
+l_performances_StraussMarch_set_QoM.png>
+Package pdftex.def Info: /Users/finn/Desktop/Current_Projects/Stavanger/Signal_
+Preparation/plots/All_performances_StraussMarch_set_QoM.png  used on input line
+ 39.
+(pdftex.def)             Requested size: 452.9679pt x 452.96558pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2 </Users/finn/Desktop/Current_Projects/Stavanger/Coordination/plots/BPM/Cardi
+ac_BR601_Full_BPM.jpg>] [3 </Users/finn/Desktop/Current_Projects/Stavanger/Sign
+al_Preparation/plots/Card_params/Cardiac_BR601_C1__BPM_dist.jpg>] [4 </Users/fi
+nn/Desktop/Current_Projects/Stavanger/Coordination/plots/Waves/Resp_BR601_Tcha_
+waves.jpg> </Users/finn/Desktop/Current_Projects/Stavanger/Signal_Preparation/p
+lots/Resp_Parms/Insp_BR601_C5__dists.jpg>] [5 </Users/finn/Desktop/Current_Proj
+ects/Stavanger/Signal_Preparation/plots/RD_Lydo_5_Synch_synch_cue.png> </Users/
+finn/Desktop/Current_Projects/Stavanger/Coordination/plots/OrchResp_each_perfor
+mance_Full_set.png>] [6 </Users/finn/Desktop/Current_Projects/Stavanger/Signal_
+Preparation/plots/All_performances_StraussMarch_set_QoM.png>] (./som.aux
+(./Indiv.aux)) ) )
+(\end occurred when \iftrue on line 8 was incomplete)
+(\end occurred when \ifnum on line 8 was incomplete) 
 Here is how much of TeX's memory you used:
- 1420 strings out of 492616
- 20973 string characters out of 6129482
- 81238 words of memory out of 5000000
- 5349 multiletter control sequences out of 15000+600000
- 4245 words of font info for 16 fonts, out of 8000000 for 9000
+ 1615 strings out of 492616
+ 26285 string characters out of 6129482
+ 86158 words of memory out of 5000000
+ 5514 multiletter control sequences out of 15000+600000
+ 7280 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,270b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,8n,25p,298b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on som.pdf (1 page, 434631 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on som.pdf (6 pages, 7300599 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
